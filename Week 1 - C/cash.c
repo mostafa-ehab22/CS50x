@@ -1,11 +1,12 @@
 #include <cs50.h>
 #include <stdio.h>
 
+// Function prototype
+int calculateCoins(int money); // To use function in main() before it's declared
+
 int main(void)
 {
-
-    // quarters (25¢), dimes (10¢), nickels (5¢), and pennies (1¢)
-    int cents, quarters = 0, dimes = 0, nickels = 0, pennies = 0;
+    int cents;
 
     // Check valid cents input
     do
@@ -14,30 +15,40 @@ int main(void)
     }
     while (cents < 0);
 
+    // Calculate coins required & Print Result
+    printf("Coins required: %i\n", calculateCoins(cents));
+}
+
+// Modular function
+int calculateCoins(int money)
+{
+
+    int quarters = 0, dimes = 0, nickels = 0, pennies = 0;
+
     // Greedy Algorithm
-    while (cents > 0)
+    while (money > 0)
     {
 
-        if (cents >= 25)
+        if (money >= 25)
         {
-            cents -= 25;
+            money -= 25;
             quarters++;
         }
-        else if (cents >= 10)
+        else if (money >= 10)
         {
-            cents -= 10;
+            money -= 10;
             dimes++;
         }
-        else if (cents >= 5)
+        else if (money >= 5)
         {
-            cents -= 5;
+            money -= 5;
             nickels++;
         }
         else
         {
-            cents -= 1;
+            money -= 1;
             pennies++;
         }
     }
-    printf("Coins required: %i\n", quarters + dimes + nickels + pennies);
+    return quarters + dimes + nickels + pennies;
 }

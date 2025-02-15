@@ -17,8 +17,8 @@
 - **Web Development:** HTML, CSS, JavaScript, Flask, and SQL for building dynamic web applications.  
 - **SQL & Databases:** Querying and managing structured data with SQL and SQLite.  
 - **Cybersecurity & Cryptography:** Basics of security, encryption, and ethical hacking principles.  
-- **Artificial Intelligence & Machine Learning:** Introduction to AI concepts, neural networks, and practical applications.  
-- **Software Engineering Principles:** Writing clean, maintainable, and efficient code with debugging and testing best practices. 
+- **Artificial Intelligence & Machine Learning:** AI fundamentals, Neural networks and real-world applications.  
+- **Software Engineering Principles:** Writing clean code, debugging, testing and best practices.  
 
 ## ⚠️ Disclaimer  
 - Code is provided solely for educational purposes and should not be used or submitted as your own work.

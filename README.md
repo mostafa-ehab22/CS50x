@@ -4,9 +4,7 @@
     <h1> CS50’s Introduction to Computer Science </h1>
 </div>
 
-#### This repository contains my solutions of problem sets and project for Harvard's CS50x Introduction to Computer Science course, demonstrating various concepts learned throughout the course. 
-
-<br>
+#### This repository contains my solutions of problem sets for Harvard's CS50x Introduction to Computer Science course, demonstrating various concepts learned throughout the course. 
 
 ## Course Content  
 - **Computational Thinking & Problem-Solving:** Foundational concepts in logic, algorithms, and efficiency.  

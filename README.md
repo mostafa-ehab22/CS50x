@@ -19,3 +19,7 @@
 - **Cybersecurity & Cryptography:** Basics of security, encryption, and ethical hacking principles.  
 - **Artificial Intelligence & Machine Learning:** Introduction to AI concepts, neural networks, and practical applications.  
 - **Software Engineering Principles:** Writing clean, maintainable, and efficient code with debugging and testing best practices. 
+
+## ⚠️ Disclaimer  
+- Code is provided solely for educational purposes and should not be used or submitted as your own work.
+- Using this code to cheat violates the course's [Academic Honesty](https://cs50.harvard.edu/x/2025/honesty/) policy and undermines the learning process. Engage with the material honestly to build genuine programming skills. 

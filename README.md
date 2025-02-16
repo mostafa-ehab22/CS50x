@@ -1,0 +1,23 @@
+ <div align=center>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/800px-Harvard_University_coat_of_arms.svg.png" height=220>
+    <p> 2025 </p>
+    <h1> CS50’s Introduction to Computer Science </h1>
+</div>
+
+#### This repository contains my solutions of problem sets for Harvard's CS50x Introduction to Computer Science course, demonstrating various concepts learned throughout the course. 
+
+## Course Content  
+- **Computational Thinking & Problem-Solving:** Foundational concepts in logic, algorithms, and efficiency.  
+- **C Programming:** Introduction to memory management, pointers, arrays, and data structures in C.  
+- **Algorithms & Data Structures:** Sorting, searching, recursion, linked lists, stacks, queues, and hash tables.  
+- **Memory Management:** Understanding pointers, dynamic memory allocation, and debugging memory leaks.  
+- **Python Programming:** Syntax, data types, functions, object-oriented programming, and file handling.  
+- **Web Development:** HTML, CSS, JavaScript, Flask, and SQL for building dynamic web applications.  
+- **SQL & Databases:** Querying and managing structured data with SQL and SQLite.  
+- **Cybersecurity & Cryptography:** Basics of security, encryption, and ethical hacking principles.  
+- **Artificial Intelligence & Machine Learning:** AI fundamentals, Neural networks and real-world applications.  
+- **Software Engineering Principles:** Writing clean code, debugging, testing and best practices.  
+
+## ⚠️ Disclaimer  
+- Code is provided solely for educational purposes and should not be used or submitted as your own work.
+- Using this code to cheat violates the course's [Academic Honesty](https://cs50.harvard.edu/x/2025/honesty/) policy and undermines the learning process. Engage with the material honestly to build genuine programming skills. 

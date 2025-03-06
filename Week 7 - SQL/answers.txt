@@ -1,0 +1,3 @@
+Some songs may be popular and thus were played multiple times throughout the year by the user and, as a result, dominating their song aura.
+Furthermore, just three factors (danceability, energy and valence) are not enough factors to properly represent users' emotions and much more factors like genre should be added for
+more accurate results.
